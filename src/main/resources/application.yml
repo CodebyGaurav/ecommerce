@@ -18,8 +18,8 @@ security:
       client:
         registration:
           github:
-            clientId: 2352529848-h04dqitt724lclp1hn73g79vko6l9klh.apps.googleusercontent.com
-            clientSecret: vgo3qKb_WegmLFHjrrF-EyRC     
+            clientId: 
+            clientSecret:      
   
                   
 divinexcode:
